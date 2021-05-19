@@ -1,5 +1,5 @@
 # <p align = "center"> CAPTURA - The Screen Recorder Tool </p>
-![Captura-ScreenRecorder](https://socialify.git.ci/anubhab1710/Captura-ScreenRecorder/image?descriptionEditable=&font=KoHo&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![Captura-ScreenRecorder](https://socialify.git.ci/anubhab1710/Captura-ScreenRecorder/image?font=KoHo&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 ## Introduction: 
 CAPTURA is a Python script tool that aims at creating a basic GUI based Screen Recorder application that will start a full-screen recording of the user's Desktop with the click of a button as well as stop the recording as per the wish of the user (can also additionally take screenshots)
 ## Third-party libraries required:
